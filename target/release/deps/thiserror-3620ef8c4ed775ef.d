@@ -1,0 +1,10 @@
+/Users/sourajitshantikari/check-if-email-exists/target/release/deps/thiserror-3620ef8c4ed775ef.d: /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.8/src/lib.rs /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.8/src/aserror.rs /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.8/src/display.rs /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.8/src/var.rs
+
+/Users/sourajitshantikari/check-if-email-exists/target/release/deps/libthiserror-3620ef8c4ed775ef.rlib: /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.8/src/lib.rs /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.8/src/aserror.rs /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.8/src/display.rs /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.8/src/var.rs
+
+/Users/sourajitshantikari/check-if-email-exists/target/release/deps/libthiserror-3620ef8c4ed775ef.rmeta: /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.8/src/lib.rs /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.8/src/aserror.rs /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.8/src/display.rs /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.8/src/var.rs
+
+/Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.8/src/lib.rs:
+/Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.8/src/aserror.rs:
+/Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.8/src/display.rs:
+/Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.8/src/var.rs:

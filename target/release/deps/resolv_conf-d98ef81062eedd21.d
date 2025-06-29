@@ -1,0 +1,10 @@
+/Users/sourajitshantikari/check-if-email-exists/target/release/deps/resolv_conf-d98ef81062eedd21.d: /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/resolv-conf-0.7.0/src/lib.rs /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/resolv-conf-0.7.0/src/grammar.rs /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/resolv-conf-0.7.0/src/ip.rs /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/resolv-conf-0.7.0/src/config.rs
+
+/Users/sourajitshantikari/check-if-email-exists/target/release/deps/libresolv_conf-d98ef81062eedd21.rlib: /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/resolv-conf-0.7.0/src/lib.rs /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/resolv-conf-0.7.0/src/grammar.rs /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/resolv-conf-0.7.0/src/ip.rs /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/resolv-conf-0.7.0/src/config.rs
+
+/Users/sourajitshantikari/check-if-email-exists/target/release/deps/libresolv_conf-d98ef81062eedd21.rmeta: /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/resolv-conf-0.7.0/src/lib.rs /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/resolv-conf-0.7.0/src/grammar.rs /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/resolv-conf-0.7.0/src/ip.rs /Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/resolv-conf-0.7.0/src/config.rs
+
+/Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/resolv-conf-0.7.0/src/lib.rs:
+/Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/resolv-conf-0.7.0/src/grammar.rs:
+/Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/resolv-conf-0.7.0/src/ip.rs:
+/Users/sourajitshantikari/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/resolv-conf-0.7.0/src/config.rs:
